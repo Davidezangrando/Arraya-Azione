@@ -1,1 +1,0 @@
-/Users/davidezangrando/AndroidStudioProjects/Arraya-Azione/app/CMakeLists.txt
