@@ -12,6 +12,11 @@
             app:summary="@string/quote_api_help"
             app:useSimpleSummaryProvider="true" />
     </PreferenceCategory>
+    <ListPreference
+        app:title="Theme"
+        app:defaultValue=""
+        app:entries="@array/theme_names"
+        app:summary="@string/quote_theme_help" />
 
     <Preference
         app:title="@string/test_api"

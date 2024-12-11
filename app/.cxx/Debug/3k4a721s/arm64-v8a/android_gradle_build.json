@@ -1,19 +1,19 @@
 {
   "buildFiles": [
-    "/Users/davidezangrando/PROGRAMMAZIONE/CODING/Progetti/Android-Scuola/arraya/AzionE-Arraya/app/CMakeLists.txt"
+    "/Users/serge/AndroidStudioProjects/Arraya-Azione/app/CMakeLists.txt"
   ],
   "cleanCommandsComponents": [
     [
       "/Users/davidezangrando/Library/Android/sdk/cmake/3.22.1/bin/ninja",
       "-C",
-      "/Users/davidezangrando/PROGRAMMAZIONE/CODING/Progetti/Android-Scuola/arraya/AzionE-Arraya/app/.cxx/Debug/3k4a721s/arm64-v8a",
+      "/Users/serge/AndroidStudioProjects/Arraya-Azione/app/.cxx/Debug/3k4a721s/arm64-v8a",
       "clean"
     ]
   ],
   "buildTargetsCommandComponents": [
     "/Users/davidezangrando/Library/Android/sdk/cmake/3.22.1/bin/ninja",
     "-C",
-    "/Users/davidezangrando/PROGRAMMAZIONE/CODING/Progetti/Android-Scuola/arraya/AzionE-Arraya/app/.cxx/Debug/3k4a721s/arm64-v8a",
+    "/Users/serge/AndroidStudioProjects/Arraya-Azione/app/.cxx/Debug/3k4a721s/arm64-v8a",
     "{LIST_OF_TARGETS_TO_BUILD}"
   ],
   "libraries": {
@@ -21,7 +21,7 @@
       "toolchain": "toolchain",
       "abi": "arm64-v8a",
       "artifactName": "native-lib",
-      "output": "/Users/davidezangrando/PROGRAMMAZIONE/CODING/Progetti/Android-Scuola/arraya/AzionE-Arraya/app/build/intermediates/cxx/Debug/3k4a721s/obj/arm64-v8a/libnative-lib.so",
+      "output": "/Users/serge/AndroidStudioProjects/Arraya-Azione/app/build/intermediates/cxx/Debug/3k4a721s/obj/arm64-v8a/libnative-lib.so",
       "runtimeFiles": []
     }
   },

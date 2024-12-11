@@ -170,15 +170,7 @@ public class SettingsActivity extends AppCompatActivity
         }
 
         private void addApiPrefs(String api_kind) {
-            if (api_kind.equals("alphavantage"))
-                addPreferencesFromResource(R.xml.alphavantage_preferences);
-            else if (api_kind.equals("iexcloud"))
-                addPreferencesFromResource(R.xml.iexcloud_preferences);
-            else if (api_kind.equals("intrinio"))
-                addPreferencesFromResource(R.xml.intrinio_preferences);
-            else if (api_kind.equals("worldtradingdata"))
-                addPreferencesFromResource(R.xml.wtd_preferences);
-            else if (api_kind.equals("yhfinance"))
+            if (api_kind.equals("yhfinance"))
                 addPreferencesFromResource(R.xml.yhfinance_preferences);
         }
     }
