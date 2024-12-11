@@ -29,7 +29,7 @@
                 android:id="@+id/title"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Stocks"
+                android:text="Arraya Stocks"
                 android:textColor="@color/almost_white"
                 android:textSize="36sp"
                 android:textStyle="bold"
