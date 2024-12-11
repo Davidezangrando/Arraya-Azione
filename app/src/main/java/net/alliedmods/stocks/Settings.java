@@ -22,11 +22,7 @@ import android.content.SharedPreferences;
 import android.preference.PreferenceManager;
 import android.util.Log;
 
-import net.alliedmods.quotes.AlphaVantage;
 import net.alliedmods.quotes.IQuoteService;
-import net.alliedmods.quotes.IexCloud;
-import net.alliedmods.quotes.Intrinio;
-import net.alliedmods.quotes.WorldTradingData;
 import net.alliedmods.quotes.YhFinance;
 
 import java.io.File;
@@ -65,30 +61,6 @@ public class Settings {
     }
 
     private IQuoteService createQuoteService(String quote_api) {
-        if (quote_api.equals("alphavantage")) {
-            String api_key = getSharedPref("alphavantage_api_key", "");
-            if (api_key.isEmpty())
-                return null;
-            return new AlphaVantage(api_key);
-        }
-        if (quote_api.equals("iexcloud")) {
-            String api_key = getSharedPref("iexcloud_api_key", "");
-            if (api_key.isEmpty())
-                return null;
-            return new IexCloud(getCacheDir(), api_key);
-        }
-        if (quote_api.equals("intrinio")) {
-            String api_key = getSharedPref("intrinio_api_key", "");
-            if (api_key.isEmpty())
-                return null;
-            return new Intrinio(api_key);
-        }
-        if (quote_api.equals("worldtradingdata")) {
-            String api_key = getSharedPref("wtd_api_key", "");
-            if (api_key.isEmpty())
-                return null;
-            return new WorldTradingData(api_key);
-        }
         if (quote_api.equals("yhfinance")) {
             String api_key = getSharedPref("yhf_api_key", "");
             if (api_key.isEmpty())
