@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "native-lib::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-native-lib-Debug-b187983a674a76de1b1a.json",
+					"jsonFile" : "target-native-lib-Debug-fd663ac728965fa12b1c.json",
 					"name" : "native-lib",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/davidezangrando/PROGRAMMAZIONE/CODING/Progetti/Android-Scuola/arraya/AzionE-Arraya/app/.cxx/Debug/3k4a721s/arm64-v8a",
-		"source" : "/Users/davidezangrando/PROGRAMMAZIONE/CODING/Progetti/Android-Scuola/arraya/AzionE-Arraya/app"
+		"build" : "/Users/davidezangrando/AndroidStudioProjects/Arraya-Azione/app/.cxx/Debug/3k4a721s/x86",
+		"source" : "/Users/davidezangrando/AndroidStudioProjects/Arraya-Azione/app"
 	},
 	"version" : 
 	{

@@ -115,7 +115,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/davidezangrando/PROGRAMMAZIONE/CODING/Progetti/Android-Scuola/arraya/AzionE-Arraya/app/.cxx/Debug/3k4a721s/arm64-v8a"
+			"value" : "/Users/davidezangrando/AndroidStudioProjects/Arraya-Azione/app/.cxx/Debug/3k4a721s/arm64-v8a"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/davidezangrando/PROGRAMMAZIONE/CODING/Progetti/Android-Scuola/arraya/AzionE-Arraya/app"
+			"value" : "/Users/davidezangrando/AndroidStudioProjects/Arraya-Azione/app"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -683,7 +683,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "/Users/davidezangrando/PROGRAMMAZIONE/CODING/Progetti/Android-Scuola/arraya/AzionE-Arraya/app/build/intermediates/cxx/Debug/3k4a721s/obj/arm64-v8a"
+			"value" : "/Users/davidezangrando/AndroidStudioProjects/Arraya-Azione/app/build/intermediates/cxx/Debug/3k4a721s/obj/arm64-v8a"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -955,7 +955,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "/Users/davidezangrando/PROGRAMMAZIONE/CODING/Progetti/Android-Scuola/arraya/AzionE-Arraya/app/build/intermediates/cxx/Debug/3k4a721s/obj/arm64-v8a"
+			"value" : "/Users/davidezangrando/AndroidStudioProjects/Arraya-Azione/app/build/intermediates/cxx/Debug/3k4a721s/obj/arm64-v8a"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
@@ -1239,7 +1239,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/davidezangrando/PROGRAMMAZIONE/CODING/Progetti/Android-Scuola/arraya/AzionE-Arraya/app/.cxx/Debug/3k4a721s/arm64-v8a"
+			"value" : "/Users/davidezangrando/AndroidStudioProjects/Arraya-Azione/app/.cxx/Debug/3k4a721s/arm64-v8a"
 		},
 		{
 			"name" : "Project_IS_TOP_LEVEL",
@@ -1263,7 +1263,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/davidezangrando/PROGRAMMAZIONE/CODING/Progetti/Android-Scuola/arraya/AzionE-Arraya/app"
+			"value" : "/Users/davidezangrando/AndroidStudioProjects/Arraya-Azione/app"
 		}
 	],
 	"kind" : "cache",

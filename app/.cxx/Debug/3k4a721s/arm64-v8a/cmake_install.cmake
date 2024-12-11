@@ -1,4 +1,4 @@
-# Install script for directory: /Users/davidezangrando/PROGRAMMAZIONE/CODING/Progetti/Android-Scuola/arraya/AzionE-Arraya/app
+# Install script for directory: /Users/davidezangrando/AndroidStudioProjects/Arraya-Azione/app
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/davidezangrando/PROGRAMMAZIONE/CODING/Progetti/Android-Scuola/arraya/AzionE-Arraya/app/.cxx/Debug/3k4a721s/arm64-v8a/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/davidezangrando/AndroidStudioProjects/Arraya-Azione/app/.cxx/Debug/3k4a721s/arm64-v8a/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

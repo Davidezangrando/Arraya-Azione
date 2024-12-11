@@ -39,7 +39,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = /Users/davidezangrando/PROGRAMMAZIONE/CODING/Progetti/Android-Scuola/arraya/AzionE-Arraya/app/.cxx/Debug/3k4a721s/arm64-v8a/
+cmake_ninja_workdir = /Users/davidezangrando/AndroidStudioProjects/Arraya-Azione/app/.cxx/Debug/3k4a721s/arm64-v8a/
 # =============================================================================
 # Object build statements for SHARED_LIBRARY target native-lib
 
@@ -49,7 +49,7 @@ cmake_ninja_workdir = /Users/davidezangrando/PROGRAMMAZIONE/CODING/Progetti/Andr
 
 build cmake_object_order_depends_target_native-lib: phony || CMakeFiles/native-lib.dir
 
-build CMakeFiles/native-lib.dir/src/main/cpp/natives.cpp.o: CXX_COMPILER__native-lib_Debug /Users/davidezangrando/PROGRAMMAZIONE/CODING/Progetti/Android-Scuola/arraya/AzionE-Arraya/app/src/main/cpp/natives.cpp || cmake_object_order_depends_target_native-lib
+build CMakeFiles/native-lib.dir/src/main/cpp/natives.cpp.o: CXX_COMPILER__native-lib_Debug /Users/davidezangrando/AndroidStudioProjects/Arraya-Azione/app/src/main/cpp/natives.cpp || cmake_object_order_depends_target_native-lib
   DEFINES = -Dnative_lib_EXPORTS
   DEP_FILE = CMakeFiles/native-lib.dir/src/main/cpp/natives.cpp.o.d
   FLAGS = -std=c++17 -Wall -Werror -g  -fno-limit-debug-info -fPIC
@@ -84,7 +84,7 @@ build ../../../../build/intermediates/cxx/Debug/3k4a721s/obj/arm64-v8a/libnative
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /Users/davidezangrando/PROGRAMMAZIONE/CODING/Progetti/Android-Scuola/arraya/AzionE-Arraya/app/.cxx/Debug/3k4a721s/arm64-v8a && /Users/davidezangrando/Library/Android/sdk/cmake/3.22.1/bin/ccmake -S/Users/davidezangrando/PROGRAMMAZIONE/CODING/Progetti/Android-Scuola/arraya/AzionE-Arraya/app -B/Users/davidezangrando/PROGRAMMAZIONE/CODING/Progetti/Android-Scuola/arraya/AzionE-Arraya/app/.cxx/Debug/3k4a721s/arm64-v8a
+  COMMAND = cd /Users/davidezangrando/AndroidStudioProjects/Arraya-Azione/app/.cxx/Debug/3k4a721s/arm64-v8a && /Users/davidezangrando/Library/Android/sdk/cmake/3.22.1/bin/ccmake -S/Users/davidezangrando/AndroidStudioProjects/Arraya-Azione/app -B/Users/davidezangrando/AndroidStudioProjects/Arraya-Azione/app/.cxx/Debug/3k4a721s/arm64-v8a
   DESC = Running CMake cache editor...
   pool = console
   restat = 1
@@ -96,7 +96,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /Users/davidezangrando/PROGRAMMAZIONE/CODING/Progetti/Android-Scuola/arraya/AzionE-Arraya/app/.cxx/Debug/3k4a721s/arm64-v8a && /Users/davidezangrando/Library/Android/sdk/cmake/3.22.1/bin/cmake --regenerate-during-build -S/Users/davidezangrando/PROGRAMMAZIONE/CODING/Progetti/Android-Scuola/arraya/AzionE-Arraya/app -B/Users/davidezangrando/PROGRAMMAZIONE/CODING/Progetti/Android-Scuola/arraya/AzionE-Arraya/app/.cxx/Debug/3k4a721s/arm64-v8a
+  COMMAND = cd /Users/davidezangrando/AndroidStudioProjects/Arraya-Azione/app/.cxx/Debug/3k4a721s/arm64-v8a && /Users/davidezangrando/Library/Android/sdk/cmake/3.22.1/bin/cmake --regenerate-during-build -S/Users/davidezangrando/AndroidStudioProjects/Arraya-Azione/app -B/Users/davidezangrando/AndroidStudioProjects/Arraya-Azione/app/.cxx/Debug/3k4a721s/arm64-v8a
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -116,7 +116,7 @@ build native-lib: phony ../../../../build/intermediates/cxx/Debug/3k4a721s/obj/a
 # =============================================================================
 
 #############################################
-# Folder: /Users/davidezangrando/PROGRAMMAZIONE/CODING/Progetti/Android-Scuola/arraya/AzionE-Arraya/app/.cxx/Debug/3k4a721s/arm64-v8a
+# Folder: /Users/davidezangrando/AndroidStudioProjects/Arraya-Azione/app/.cxx/Debug/3k4a721s/arm64-v8a
 
 build all: phony ../../../../build/intermediates/cxx/Debug/3k4a721s/obj/arm64-v8a/libnative-lib.so
 
