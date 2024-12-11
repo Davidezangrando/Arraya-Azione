@@ -1,8 +1,8 @@
-# Install script for directory: /Users/davidezangrando/PROGRAMMAZIONE/CODING/Progetti/Android-Scuola/arraya/AzionE-Arraya/app
+# Install script for directory: C:/Users/serge/AndroidStudioProjects/Arraya-Azione/app
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/usr/local")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Project")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -39,7 +39,7 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "/Users/davidezangrando/Library/Android/sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/darwin-x86_64/bin/llvm-objdump")
+  set(CMAKE_OBJDUMP "C:/Users/serge/AppData/Local/Android/Sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/windows-x86_64/bin/llvm-objdump.exe")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/davidezangrando/PROGRAMMAZIONE/CODING/Progetti/Android-Scuola/arraya/AzionE-Arraya/app/.cxx/Debug/3k4a721s/x86/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/serge/AndroidStudioProjects/Arraya-Azione/app/.cxx/Debug/3k4a721s/x86/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

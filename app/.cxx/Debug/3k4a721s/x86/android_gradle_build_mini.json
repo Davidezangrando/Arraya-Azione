@@ -1,26 +1,26 @@
 {
   "buildFiles": [
-    "/Users/davidezangrando/PROGRAMMAZIONE/CODING/Progetti/Android-Scuola/arraya/AzionE-Arraya/app/CMakeLists.txt"
+    "C:\\Users\\serge\\AndroidStudioProjects\\Arraya-Azione\\app\\CMakeLists.txt"
   ],
   "cleanCommandsComponents": [
     [
-      "/Users/davidezangrando/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "C:\\Users\\serge\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
       "-C",
-      "/Users/davidezangrando/PROGRAMMAZIONE/CODING/Progetti/Android-Scuola/arraya/AzionE-Arraya/app/.cxx/Debug/3k4a721s/x86",
+      "C:\\Users\\serge\\AndroidStudioProjects\\Arraya-Azione\\app\\.cxx\\Debug\\3k4a721s\\x86",
       "clean"
     ]
   ],
   "buildTargetsCommandComponents": [
-    "/Users/davidezangrando/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "C:\\Users\\serge\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
     "-C",
-    "/Users/davidezangrando/PROGRAMMAZIONE/CODING/Progetti/Android-Scuola/arraya/AzionE-Arraya/app/.cxx/Debug/3k4a721s/x86",
+    "C:\\Users\\serge\\AndroidStudioProjects\\Arraya-Azione\\app\\.cxx\\Debug\\3k4a721s\\x86",
     "{LIST_OF_TARGETS_TO_BUILD}"
   ],
   "libraries": {
     "native-lib::@6890427a1f51a3e7e1df": {
       "artifactName": "native-lib",
       "abi": "x86",
-      "output": "/Users/davidezangrando/PROGRAMMAZIONE/CODING/Progetti/Android-Scuola/arraya/AzionE-Arraya/app/build/intermediates/cxx/Debug/3k4a721s/obj/x86/libnative-lib.so",
+      "output": "C:\\Users\\serge\\AndroidStudioProjects\\Arraya-Azione\\app\\build\\intermediates\\cxx\\Debug\\3k4a721s\\obj\\x86\\libnative-lib.so",
       "runtimeFiles": []
     }
   }

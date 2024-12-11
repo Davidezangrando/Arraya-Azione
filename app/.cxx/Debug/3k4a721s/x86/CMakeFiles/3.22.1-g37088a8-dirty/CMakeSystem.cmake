@@ -1,16 +1,16 @@
-set(CMAKE_HOST_SYSTEM "Darwin-24.1.0")
-set(CMAKE_HOST_SYSTEM_NAME "Darwin")
-set(CMAKE_HOST_SYSTEM_VERSION "24.1.0")
-set(CMAKE_HOST_SYSTEM_PROCESSOR "arm64")
+set(CMAKE_HOST_SYSTEM "Windows-10.0.22631")
+set(CMAKE_HOST_SYSTEM_NAME "Windows")
+set(CMAKE_HOST_SYSTEM_VERSION "10.0.22631")
+set(CMAKE_HOST_SYSTEM_PROCESSOR "AMD64")
 
-include("/Users/davidezangrando/Library/Android/sdk/ndk/23.0.7599858/build/cmake/android.toolchain.cmake")
+include("C:/Users/serge/AppData/Local/Android/Sdk/ndk/23.0.7599858/build/cmake/android.toolchain.cmake")
 
 set(CMAKE_SYSTEM "Android-28")
 set(CMAKE_SYSTEM_NAME "Android")
 set(CMAKE_SYSTEM_VERSION "28")
 set(CMAKE_SYSTEM_PROCESSOR "i686")
 
-set(CMAKE_ANDROID_NDK "/Users/davidezangrando/Library/Android/sdk/ndk/23.0.7599858")
+set(CMAKE_ANDROID_NDK "C:/Users/serge/AppData/Local/Android/Sdk/ndk/23.0.7599858")
 set(CMAKE_ANDROID_STANDALONE_TOOLCHAIN "")
 set(CMAKE_ANDROID_ARCH "x86")
 set(CMAKE_ANDROID_ARCH_ABI "x86")
@@ -18,8 +18,8 @@ set(CMAKE_ANDROID_ARCH_TRIPLE "i686-linux-android")
 set(CMAKE_ANDROID_ARCH_LLVM_TRIPLE "i686-none-linux-android")
 set(CMAKE_ANDROID_NDK_VERSION "23.0")
 set(CMAKE_ANDROID_NDK_DEPRECATED_HEADERS "1")
-set(CMAKE_ANDROID_NDK_TOOLCHAIN_HOST_TAG "darwin-x86_64")
-set(CMAKE_ANDROID_NDK_TOOLCHAIN_UNIFIED "/Users/davidezangrando/Library/Android/sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/darwin-x86_64")
+set(CMAKE_ANDROID_NDK_TOOLCHAIN_HOST_TAG "windows-x86_64")
+set(CMAKE_ANDROID_NDK_TOOLCHAIN_UNIFIED "C:/Users/serge/AppData/Local/Android/Sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/windows-x86_64")
 
 # Copyright (C) 2020 The Android Open Source Project
 #

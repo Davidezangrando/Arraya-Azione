@@ -23,7 +23,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "/Users/davidezangrando/Library/Android/sdk/ndk/23.0.7599858"
+			"value" : "C:\\Users\\serge\\AppData\\Local\\Android\\Sdk\\ndk\\23.0.7599858"
 		},
 		{
 			"name" : "ANDROID_PLATFORM",
@@ -51,7 +51,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "/Users/davidezangrando/Library/Android/sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/darwin-x86_64/bin/llvm-addr2line"
+			"value" : "C:/Users/serge/AppData/Local/Android/Sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/windows-x86_64/bin/llvm-addr2line.exe"
 		},
 		{
 			"name" : "CMAKE_ANDROID_ARCH_ABI",
@@ -75,7 +75,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "/Users/davidezangrando/Library/Android/sdk/ndk/23.0.7599858"
+			"value" : "C:\\Users\\serge\\AppData\\Local\\Android\\Sdk\\ndk\\23.0.7599858"
 		},
 		{
 			"name" : "CMAKE_AR",
@@ -91,7 +91,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "/Users/davidezangrando/Library/Android/sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/darwin-x86_64/bin/llvm-ar"
+			"value" : "C:/Users/serge/AppData/Local/Android/Sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/windows-x86_64/bin/llvm-ar.exe"
 		},
 		{
 			"name" : "CMAKE_BUILD_TYPE",
@@ -115,7 +115,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/davidezangrando/PROGRAMMAZIONE/CODING/Progetti/Android-Scuola/arraya/AzionE-Arraya/app/.cxx/Debug/3k4a721s/x86"
+			"value" : "c:/Users/serge/AndroidStudioProjects/Arraya-Azione/app/.cxx/Debug/3k4a721s/x86"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -163,7 +163,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/davidezangrando/Library/Android/sdk/cmake/3.22.1/bin/cmake"
+			"value" : "C:/Users/serge/AppData/Local/Android/Sdk/cmake/3.22.1/bin/cmake.exe"
 		},
 		{
 			"name" : "CMAKE_CPACK_COMMAND",
@@ -175,7 +175,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/davidezangrando/Library/Android/sdk/cmake/3.22.1/bin/cpack"
+			"value" : "C:/Users/serge/AppData/Local/Android/Sdk/cmake/3.22.1/bin/cpack.exe"
 		},
 		{
 			"name" : "CMAKE_CTEST_COMMAND",
@@ -187,7 +187,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/davidezangrando/Library/Android/sdk/cmake/3.22.1/bin/ctest"
+			"value" : "C:/Users/serge/AppData/Local/Android/Sdk/cmake/3.22.1/bin/ctest.exe"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER",
@@ -462,18 +462,6 @@
 			"value" : "CMAKE_DLLTOOL-NOTFOUND"
 		},
 		{
-			"name" : "CMAKE_EDIT_COMMAND",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Path to cache edit program executable."
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : "/Users/davidezangrando/Library/Android/sdk/cmake/3.22.1/bin/ccmake"
-		},
-		{
 			"name" : "CMAKE_EXECUTABLE_FORMAT",
 			"properties" : 
 			[
@@ -483,7 +471,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "MACHO"
+			"value" : "Unknown"
 		},
 		{
 			"name" : "CMAKE_EXE_LINKER_FLAGS",
@@ -647,7 +635,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/davidezangrando/PROGRAMMAZIONE/CODING/Progetti/Android-Scuola/arraya/AzionE-Arraya/app"
+			"value" : "C:/Users/serge/AndroidStudioProjects/Arraya-Azione/app"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -659,7 +647,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "/usr/local"
+			"value" : "C:/Program Files (x86)/Project"
 		},
 		{
 			"name" : "CMAKE_INSTALL_SO_NO_EXE",
@@ -683,7 +671,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "/Users/davidezangrando/PROGRAMMAZIONE/CODING/Progetti/Android-Scuola/arraya/AzionE-Arraya/app/build/intermediates/cxx/Debug/3k4a721s/obj/x86"
+			"value" : "C:\\Users\\serge\\AndroidStudioProjects\\Arraya-Azione\\app\\build\\intermediates\\cxx\\Debug\\3k4a721s\\obj\\x86"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -699,7 +687,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "/Users/davidezangrando/Library/Android/sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/darwin-x86_64/bin/ld.lld"
+			"value" : "C:/Users/serge/AppData/Local/Android/Sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/windows-x86_64/bin/ld.lld.exe"
 		},
 		{
 			"name" : "CMAKE_MAKE_PROGRAM",
@@ -711,7 +699,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "/Users/davidezangrando/Library/Android/sdk/cmake/3.22.1/bin/ninja"
+			"value" : "C:\\Users\\serge\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -807,7 +795,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "/Users/davidezangrando/Library/Android/sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/darwin-x86_64/bin/llvm-nm"
+			"value" : "C:/Users/serge/AppData/Local/Android/Sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/windows-x86_64/bin/llvm-nm.exe"
 		},
 		{
 			"name" : "CMAKE_NUMBER_OF_MAKEFILES",
@@ -835,7 +823,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "/Users/davidezangrando/Library/Android/sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/darwin-x86_64/bin/llvm-objcopy"
+			"value" : "C:/Users/serge/AppData/Local/Android/Sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/windows-x86_64/bin/llvm-objcopy.exe"
 		},
 		{
 			"name" : "CMAKE_OBJDUMP",
@@ -851,7 +839,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "/Users/davidezangrando/Library/Android/sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/darwin-x86_64/bin/llvm-objdump"
+			"value" : "C:/Users/serge/AppData/Local/Android/Sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/windows-x86_64/bin/llvm-objdump.exe"
 		},
 		{
 			"name" : "CMAKE_PLATFORM_INFO_INITIALIZED",
@@ -915,7 +903,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "/Users/davidezangrando/Library/Android/sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/darwin-x86_64/bin/llvm-ranlib"
+			"value" : "C:/Users/serge/AppData/Local/Android/Sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/windows-x86_64/bin/llvm-ranlib.exe"
 		},
 		{
 			"name" : "CMAKE_READELF",
@@ -931,7 +919,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "/Users/davidezangrando/Library/Android/sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/darwin-x86_64/bin/llvm-readelf"
+			"value" : "C:/Users/serge/AppData/Local/Android/Sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/windows-x86_64/bin/llvm-readelf.exe"
 		},
 		{
 			"name" : "CMAKE_ROOT",
@@ -943,7 +931,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/davidezangrando/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22"
+			"value" : "C:/Users/serge/AppData/Local/Android/Sdk/cmake/3.22.1/share/cmake-3.22"
 		},
 		{
 			"name" : "CMAKE_RUNTIME_OUTPUT_DIRECTORY",
@@ -955,7 +943,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "/Users/davidezangrando/PROGRAMMAZIONE/CODING/Progetti/Android-Scuola/arraya/AzionE-Arraya/app/build/intermediates/cxx/Debug/3k4a721s/obj/x86"
+			"value" : "C:\\Users\\serge\\AndroidStudioProjects\\Arraya-Azione\\app\\build\\intermediates\\cxx\\Debug\\3k4a721s\\obj\\x86"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
@@ -1163,7 +1151,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "/Users/davidezangrando/Library/Android/sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/darwin-x86_64/bin/llvm-strip"
+			"value" : "C:/Users/serge/AppData/Local/Android/Sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/windows-x86_64/bin/llvm-strip.exe"
 		},
 		{
 			"name" : "CMAKE_SYSTEM_NAME",
@@ -1199,19 +1187,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "/Users/davidezangrando/Library/Android/sdk/ndk/23.0.7599858/build/cmake/android.toolchain.cmake"
-		},
-		{
-			"name" : "CMAKE_UNAME",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "uname command"
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : "/usr/bin/uname"
+			"value" : "C:/Users/serge/AppData/Local/Android/Sdk/ndk/23.0.7599858/build/cmake/android.toolchain.cmake"
 		},
 		{
 			"name" : "CMAKE_VERBOSE_MAKEFILE",
@@ -1239,7 +1215,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/davidezangrando/PROGRAMMAZIONE/CODING/Progetti/Android-Scuola/arraya/AzionE-Arraya/app/.cxx/Debug/3k4a721s/x86"
+			"value" : "C:/Users/serge/AndroidStudioProjects/Arraya-Azione/app/.cxx/Debug/3k4a721s/x86"
 		},
 		{
 			"name" : "Project_IS_TOP_LEVEL",
@@ -1263,7 +1239,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/davidezangrando/PROGRAMMAZIONE/CODING/Progetti/Android-Scuola/arraya/AzionE-Arraya/app"
+			"value" : "C:/Users/serge/AndroidStudioProjects/Arraya-Azione/app"
 		}
 	],
 	"kind" : "cache",

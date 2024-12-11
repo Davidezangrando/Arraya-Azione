@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "/Users/davidezangrando/PROGRAMMAZIONE/CODING/Progetti/Android-Scuola/arraya/AzionE-Arraya/app/build/intermediates/cxx/Debug/3k4a721s/obj/x86/libnative-lib.so"
+			"path" : "C:/Users/serge/AndroidStudioProjects/Arraya-Azione/app/build/intermediates/cxx/Debug/3k4a721s/obj/x86/libnative-lib.so"
 		}
 	],
 	"backtrace" : 1,
@@ -51,7 +51,7 @@
 			],
 			"sysroot" : 
 			{
-				"path" : "/Users/davidezangrando/Library/Android/sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/darwin-x86_64/sysroot"
+				"path" : "C:/Users/serge/AppData/Local/Android/Sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/windows-x86_64/sysroot"
 			}
 		}
 	],
@@ -72,7 +72,7 @@
 		"language" : "CXX",
 		"sysroot" : 
 		{
-			"path" : "/Users/davidezangrando/Library/Android/sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/darwin-x86_64/sysroot"
+			"path" : "C:/Users/serge/AppData/Local/Android/Sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/windows-x86_64/sysroot"
 		}
 	},
 	"name" : "native-lib",
