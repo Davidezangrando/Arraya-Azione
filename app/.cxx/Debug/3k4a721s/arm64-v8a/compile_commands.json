@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/davidezangrando/AndroidStudioProjects/Arraya-Azione/app/.cxx/Debug/3k4a721s/arm64-v8a",
+  "command": "/Users/davidezangrando/Library/Android/sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android28 --sysroot=/Users/davidezangrando/Library/Android/sdk/ndk/23.0.7599858/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_lib_EXPORTS -std=c++17 -Wall -Werror -g  -fno-limit-debug-info -fPIC -o CMakeFiles/native-lib.dir/src/main/cpp/natives.cpp.o -c /Users/davidezangrando/AndroidStudioProjects/Arraya-Azione/app/src/main/cpp/natives.cpp",
+  "file": "/Users/davidezangrando/AndroidStudioProjects/Arraya-Azione/app/src/main/cpp/natives.cpp"
+}
+]
